@@ -1,4 +1,4 @@
-package java__.p1087;
+package java__.nivel4.p1087;
 
 import java.util.Scanner;
 public class Main {

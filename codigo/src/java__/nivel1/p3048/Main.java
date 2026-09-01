@@ -1,4 +1,4 @@
-package java__.p3048;
+package java__.nivel1.p3048;
 
 import java.util.Scanner;
 public class Main {
