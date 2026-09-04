@@ -53,7 +53,6 @@ public class Main {
         BigDecimal tempo2 = velocidadeY.negate().subtract(delta).divide(aceleracao, MathContext.DECIMAL128);
                 // (-velocidadeY - delta)/aceleracao;
         tempo1 = tempo1.max(tempo2);
-
         //System.out.println("Tempo: "+tempo1);
         return formulaPosicao(BigDecimal.ZERO, velocidadeX, tempo1, BigDecimal.ZERO);
     }
