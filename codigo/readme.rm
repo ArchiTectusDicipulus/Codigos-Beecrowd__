@@ -1,0 +1,1 @@
+Para utilizar o codigo na submissao nos codigos em java, é necessario deletar a linha acima em 'package'
